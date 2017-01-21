@@ -7,7 +7,7 @@ import json
 
 from fb.page import PageParser
 
-ACCESS_TOKEN = "EAADNJGFzmZBIBAPDI2afQ9U9GJVOpQUZCiLrXeRAkRk2ZAP2ZBgFicoJmye5oekFZBrb4gyaVWXyxEZCi0McZAJZCQxnzxy5wfIDzDer1nxvo97xBQQeg0ZCthBZAjI8ExtU6THOvDcxdBUoC2h8jJb5IqG0kOtZAQzMP0ZD"
+ACCESS_TOKEN = ""
 PAGE_ID = "kobeengineer"
 
 if __name__ == "__main__":
