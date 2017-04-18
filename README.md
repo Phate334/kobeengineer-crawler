@@ -1,4 +1,4 @@
-# Facebook Graph API Crawler #
+# kobeengineer Crawler #
 
 記錄用 FB Graph API 爬取**靠北工程師**的貼文讚數、分享數和回應數的過程，以及遇到的一些地雷。
 
